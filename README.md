@@ -1,5 +1,5 @@
 # Secondary Name -- "Brew & Do" (Matcha) Habit Tracker
-*Design components can be seen __[here](https://www.figma.com/design/pnuarbwdzvNIFB0CaXmIQu/App-Design-Spring-Break?node-id=4-2)__.*
+*Figma design components can be seen __[here](https://www.figma.com/design/pnuarbwdzvNIFB0CaXmIQu/App-Design-Spring-Break?node-id=4-2)__.*
 
 This was created in Spring Break '25 to learn more about xCode development, 
 basic data storage, and the overall creation of making a polished app.
